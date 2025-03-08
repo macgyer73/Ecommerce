@@ -9,7 +9,7 @@ Refinamento do Desafio Proposto E-Commerce
 ## 📘 Projeto Refinado 
 
 
-<img src="https://github.com/macgyer73/Ecommerce/blob/main/ecommerce_relational_schema-Refinado.png"
+<img src="https://github.com/macgyer73/Ecommerce/blob/main/ecommerce_relational_schema-Refinado.png">
 
 ###Descrição 
 
