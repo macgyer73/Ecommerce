@@ -12,7 +12,7 @@ Refinamento do Desafio Proposto E-Commerce
 
 <img src="https://github.com/macgyer73/Ecommerce/blob/main/ecommerce_relational_schema-Refinado.png">
 
-###Descrição 
+##Descrição 
 
 De Acordo com desafio  pontos a melhorar 
 Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
